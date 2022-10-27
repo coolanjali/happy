@@ -80,7 +80,7 @@ export default function Weather(){
   </tbody>
 </table>
 <footer>
-        Open Source coded by Priyanka in <a href="/">Github</a>
+        Open Source coded by Priyanka in <a href="https://github.com/coolanjali/happy">Github</a>
       </footer>
 </div>);
 
@@ -137,7 +137,7 @@ if(loaded){
   </tbody>
 </table>
 <footer>
-        Open Source coded by Priyanka in <a href="/">Github</a>
+        Open Source coded by Priyanka in <a href="https://github.com/coolanjali/happy">Github</a>
       </footer>
 </div>
  );
