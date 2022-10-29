@@ -63,7 +63,7 @@ export default function Weather() {
           <li>Cloudy</li>
         </ul>
       </div>
-      <table class="table">
+      <table className="table">
         <thead>
           <tr>
             <th scope="col">Monday</th>
@@ -78,35 +78,35 @@ export default function Weather() {
             <th>
               <img
                 src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                class="figure-img img-fluid rounded"
+                className="figure-img img-fluid rounded"
                 alt="..."
               />
             </th>
             <td>
               <img
                 src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                class="figure-img img-fluid rounded"
+                className="figure-img img-fluid rounded"
                 alt="..."
               />
             </td>
             <td>
               <img
                 src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                class="figure-img img-fluid rounded"
+                className="figure-img img-fluid rounded"
                 alt="..."
               />
             </td>
             <td>
               <img
                 src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                class="figure-img img-fluid rounded"
+                className="figure-img img-fluid rounded"
                 alt="..."
               />
             </td>
             <td>
               <img
                 src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                class="figure-img img-fluid rounded"
+                className="figure-img img-fluid rounded"
                 alt="..."
               />
             </td>
@@ -143,9 +143,9 @@ export default function Weather() {
             className="btn btn-primary"
           />
         </form>
-        <figure class="figure">
+        <figure className="figure">
           <img src={icon.Icon} alt="..." />
-          <figcaption class="figure-caption">
+          <figcaption className="figure-caption">
             5:10pm on Wednesday,October 26
           </figcaption>
         </figure>
@@ -160,7 +160,7 @@ export default function Weather() {
             <li>{description}</li>
           </ul>
         </div>
-        <table class="table">
+        <table className="table">
           <thead>
             <tr>
               <th scope="col">Monday</th>
@@ -175,35 +175,35 @@ export default function Weather() {
               <th>
                 <img
                   src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                  class="figure-img img-fluid rounded"
+                  className="figure-img img-fluid rounded"
                   alt="..."
                 />
               </th>
               <td>
                 <img
                   src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                  class="figure-img img-fluid rounded"
+                  className="figure-img img-fluid rounded"
                   alt="..."
                 />
               </td>
               <td>
                 <img
                   src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                  class="figure-img img-fluid rounded"
+                  className="figure-img img-fluid rounded"
                   alt="..."
                 />
               </td>
               <td>
                 <img
                   src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                  class="figure-img img-fluid rounded"
+                  className="figure-img img-fluid rounded"
                   alt="..."
                 />
               </td>
               <td>
                 <img
                   src="https://assets.msn.com/weathermapdata/1/static/svg/72/v5_2/card_fix_partlysunny/PartlyCloudyNightV2.svg"
-                  class="figure-img img-fluid rounded"
+                  className="figure-img img-fluid rounded"
                   alt="..."
                 />
               </td>
