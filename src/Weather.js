@@ -43,12 +43,12 @@ export default function Weather() {
         />
         <input type="submit" placeholder="Search" className="btn btn-primary" />
       </form>
-      <figure class="figure">
+      <figure className="figure">
         <img
           src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
           alt="..."
         />
-        <figcaption class="figure-caption">
+        <figcaption className="figure-caption">
           5:10pm on Wednesday,October 26
         </figcaption>
       </figure>
